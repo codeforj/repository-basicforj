@@ -1,2 +1,1 @@
-# repository-basicforj
-test basic repository functions
+# 2018732069 이재준
